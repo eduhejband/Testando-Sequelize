@@ -52,5 +52,6 @@ async function consultaUsuarios() {
   }
 }
 
+//cadastrarUsuarios(); 
 consultaUsuarios();
 
